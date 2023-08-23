@@ -29,7 +29,7 @@ php composer.phar require --prefer-dist yii2tech/admin
 or add
 
 ```json
-"yii2tech/admin": "*"
+"yii2tech/admin": "dev-master"
 ```
 
 to the require section of your composer.json.
